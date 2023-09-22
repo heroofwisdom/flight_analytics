@@ -1,0 +1,9 @@
+{
+	"name": "flightanalyticsadf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df5557fc-d2d8-4584-b811-2dcf0f2e9b31",
+		"tenantId": "dcee2764-1946-4e92-9670-5e553fb3384e"
+	}
+}
